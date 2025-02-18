@@ -2,5 +2,9 @@ Surbir modificaciones desde casa
 
 Modificado desde editor de GitHub en su web
 
+<<<<<<< HEAD
 He modificado primero en la plataforma directamente y sin descargar con pull 
 modifico el archivo desde mi repositorio 
+=======
+Se me olvido ver el estado primero 
+>>>>>>> 68e6bf177d7d6835df139652994948868310612d
