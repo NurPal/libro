@@ -1,3 +1,6 @@
 Surbir modificaciones desde casa 
 
 Modificado desde editor de GitHub en su web
+
+He modificado primero en la plataforma directamente y sin descargar con pull 
+modifico el archivo desde mi repositorio 
